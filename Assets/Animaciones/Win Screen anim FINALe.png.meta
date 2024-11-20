@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: fe296cea318a2cd4ba89d314ec0f3a9c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 47
+        width: 313
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1300a40d74deec440bd8d4a85cd9b726
+      internalID: -1807266273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa776df969d334da7b702b19a33955
+      internalID: -981066558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_2
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3c83b0c1ec6d74db98339eaf1c1a01
+      internalID: 3592843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_3
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fb1eccfe65bd94383c9d2fd61182c4
+      internalID: -1912239507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_4
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 47
+        width: 305
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13159488f13eeff40bddd5138718c6f6
+      internalID: 1069918266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_5
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f538cdcb73a9e0942b8f11c5bbb273b9
+      internalID: 1351238613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_6
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa2eaeeb0fa82243b39737e47f3bfb8
+      internalID: -1768051753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_7
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4292f55a7bf5d1648b28537cc3ae31eb
+      internalID: -74079857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_8
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 47
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a0983a7e579440bb60383bc63107a
+      internalID: -167305086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_9
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389af8fdfa5610f4493761bf104ce813
+      internalID: -1458805683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_10
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b17e88fdcd43a04480a2a10c193f08f
+      internalID: 1808533775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_11
+      rect:
+        serializedVersion: 2
+        x: 4443
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44c7bb858396e14db5d1a685641e845
+      internalID: -2084073849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_12
+      rect:
+        serializedVersion: 2
+        x: 4848
+        y: 47
+        width: 305
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f7ecb2310a7684585927ed4832f7a7
+      internalID: 917175237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_13
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc97cc369e011384fbebe58ec446e673
+      internalID: 114026623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_14
+      rect:
+        serializedVersion: 2
+        x: 5645
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b1a359b7a788d4481ac77dc914e18a
+      internalID: 863347534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_15
+      rect:
+        serializedVersion: 2
+        x: 6043
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400e79c52c986bd4eb3512862eee69b8
+      internalID: -392008158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_16
+      rect:
+        serializedVersion: 2
+        x: 6441
+        y: 47
+        width: 313
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21ad9b117a180409c8806c3bfb1e12
+      internalID: 975805837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_17
+      rect:
+        serializedVersion: 2
+        x: 6846
+        y: 47
+        width: 313
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503b0ca3fd118b458e8160e3f4d4c2e
+      internalID: -1501397701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_18
+      rect:
+        serializedVersion: 2
+        x: 7245
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782abac2d595c01479bb6909117fb0ea
+      internalID: -1386492012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_19
+      rect:
+        serializedVersion: 2
+        x: 7643
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dc8efc404d2a745b55d03d333d656e
+      internalID: 1371856920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_20
+      rect:
+        serializedVersion: 2
+        x: 8042
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1e03726e44be04797eae1621be3fa1
+      internalID: 1311339468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_21
+      rect:
+        serializedVersion: 2
+        x: 8447
+        y: 47
+        width: 305
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00225af299efe5c4fb86dbe3d5511368
+      internalID: -579703313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_22
+      rect:
+        serializedVersion: 2
+        x: 8845
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb839c80863f442a5e622e7c536177
+      internalID: -742224551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_23
+      rect:
+        serializedVersion: 2
+        x: 9244
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6ceb9cc89253c489621f2649f7ecb8
+      internalID: 51144847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_24
+      rect:
+        serializedVersion: 2
+        x: 9642
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d21c2653c5aca4d9af21e3f22bd695
+      internalID: 956635403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_25
+      rect:
+        serializedVersion: 2
+        x: 10047
+        y: 47
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a7d1f72047ac418eb6bdcd46c8fa2
+      internalID: -236288149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_26
+      rect:
+        serializedVersion: 2
+        x: 10446
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dc2f9c611103a4cbc0b478c34ff397
+      internalID: 211158396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_27
+      rect:
+        serializedVersion: 2
+        x: 10844
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43adeae2e80c6574da2bc4d6daaa0b7b
+      internalID: 162609262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_28
+      rect:
+        serializedVersion: 2
+        x: 11243
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c25268df33631547929e973e19917ff
+      internalID: -2067767581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_29
+      rect:
+        serializedVersion: 2
+        x: 11648
+        y: 47
+        width: 305
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6685439a09c4bc24a9d87574776b0e2f
+      internalID: -38061957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_30
+      rect:
+        serializedVersion: 2
+        x: 12046
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2008c38f036a4cb2d7257ea3b9831
+      internalID: 1686805559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_31
+      rect:
+        serializedVersion: 2
+        x: 12445
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add81eb009af9a543b66a6bd930c5791
+      internalID: 561934252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_32
+      rect:
+        serializedVersion: 2
+        x: 12843
+        y: 47
+        width: 312
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb93ead535222945979b2134cc26d63
+      internalID: 1257404968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win Screen anim FINALe_33
+      rect:
+        serializedVersion: 2
+        x: 13241
+        y: 47
+        width: 313
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3513ad89878fdec4fa3544f9c2c16535
+      internalID: -408339568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Win Screen anim FINALe_0: -1807266273
+      Win Screen anim FINALe_1: -981066558
+      Win Screen anim FINALe_10: 1808533775
+      Win Screen anim FINALe_11: -2084073849
+      Win Screen anim FINALe_12: 917175237
+      Win Screen anim FINALe_13: 114026623
+      Win Screen anim FINALe_14: 863347534
+      Win Screen anim FINALe_15: -392008158
+      Win Screen anim FINALe_16: 975805837
+      Win Screen anim FINALe_17: -1501397701
+      Win Screen anim FINALe_18: -1386492012
+      Win Screen anim FINALe_19: 1371856920
+      Win Screen anim FINALe_2: 3592843
+      Win Screen anim FINALe_20: 1311339468
+      Win Screen anim FINALe_21: -579703313
+      Win Screen anim FINALe_22: -742224551
+      Win Screen anim FINALe_23: 51144847
+      Win Screen anim FINALe_24: 956635403
+      Win Screen anim FINALe_25: -236288149
+      Win Screen anim FINALe_26: 211158396
+      Win Screen anim FINALe_27: 162609262
+      Win Screen anim FINALe_28: -2067767581
+      Win Screen anim FINALe_29: -38061957
+      Win Screen anim FINALe_3: -1912239507
+      Win Screen anim FINALe_30: 1686805559
+      Win Screen anim FINALe_31: 561934252
+      Win Screen anim FINALe_32: 1257404968
+      Win Screen anim FINALe_33: -408339568
+      Win Screen anim FINALe_4: 1069918266
+      Win Screen anim FINALe_5: 1351238613
+      Win Screen anim FINALe_6: -1768051753
+      Win Screen anim FINALe_7: -74079857
+      Win Screen anim FINALe_8: -167305086
+      Win Screen anim FINALe_9: -1458805683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
